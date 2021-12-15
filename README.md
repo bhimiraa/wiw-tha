@@ -1,9 +1,5 @@
 ## Instructions to Setup and Run program
 
-### Install Anaconda by following the steps here
-
-`https://docs.anaconda.com/anaconda/install/`
-
 ### Clone repo
 
 `git clone https://github.com/bhimiraa/wiw-tha.git`
