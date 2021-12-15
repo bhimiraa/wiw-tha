@@ -22,3 +22,11 @@
 ### If the program runs successfully then you will find result and before_pivot(if debug flag is set to true) csv files under result_path_directory
 before_pivot - processed file with user data before pivot and final tranformation in required format
 result - file processed in the required format
+
+Example Usage:
+For debug set to true
+./runCompute.sh "./result" "https://public.wiwdata.com/engineering-challenge/data" "True"
+
+For debug set to false
+./runCompute.sh "./result" "https://public.wiwdata.com/engineering-challenge/data" "False"
+
