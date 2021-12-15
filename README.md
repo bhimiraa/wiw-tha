@@ -23,7 +23,7 @@
 before_pivot - processed file with user data before pivot and final tranformation in required format
 result - file processed in the required format
 
-Example Usage:
+### Example Usage:
 For debug set to true
 ./runCompute.sh "./result" "https://public.wiwdata.com/engineering-challenge/data" "True"
 
