@@ -1,7 +1,6 @@
 '''
 TODO 
-1. See if pandas can install dependencies
-2. Write README.md file with instructions to install dependencies and run the script
+1. If there was enough time, write some test scripts
 '''
 
 try:
